@@ -1,0 +1,11 @@
+{
+  "name"              : "hostvirtual-nodejs-sdk",
+  "description"       : "NodeJS SDK for the HostVirtual Cloud",
+  "version"           : "0.0.1",
+  "main"              : "lib/vr_cloud.js",
+  "private"           : "true",
+  "engines"           : {
+    "node": "0.8.x",
+    "npm" : "1.1.x"
+  }
+}

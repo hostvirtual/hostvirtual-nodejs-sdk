@@ -1,4 +1,3 @@
-hostvirtual-nodejs-sdk
-======================
+# hostvirtual-nodejs-sdk
 
-NodeJS SDK
+NodeJS SDK to interact with the HostVirtual Cloud.
